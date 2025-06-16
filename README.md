@@ -8,7 +8,7 @@ This project implements an efficient OARSMT (Obstacle-Avoiding Rectilinear Stein
 The core algorithm is from our published paper:  
 > J. Guo, H. Kong and L. Feng, "A Rule-Based High Efficient Obstacle-Avoiding RSMT Algorithm for VLSI Routing," *2024 IEEE International Symposium on Circuits and Systems (ISCAS)*, Singapore, 2024, pp. 1-5.  
 > DOI: [10.1109/ISCAS58744.2024.10558430](https://doi.org/10.1109/ISCAS58744.2024.10558430)  
-> **Contact**: Lang Feng (fenglang3@mail.sysu.edu.cn)
+> **Contact**: Junhao Guo (guojh73@mail2.sysu.edu.cn)
 
 ## Files
 
